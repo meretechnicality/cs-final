@@ -1,0 +1,76 @@
+header {
+text-align: center;
+font-family: 'Ranga', cursive;
+background-image: url("andover-header.jpg");
+transition:0.5s;
+}
+
+header:hover{
+  text-align: center;
+  font-family: 'Ranga', cursive;
+  background-image: url("andover-header.jpg");
+  color: white;
+  transition:0.5s;
+}
+
+a {
+  display:inline;
+}
+.option {
+  text-decoration: none;
+  color: blue;
+  border-style: groove;
+  transition: 2s;
+  text-align: center;
+  display: block;
+}
+.option:visited {
+  color:black;
+  transition:2s;
+}
+
+.option:hover {
+  color:green;
+  border-style: groove;
+  transition:2s;
+}
+
+.option:active{
+  color:green;
+  border-style: inset;
+  transition:2s;
+}
+
+
+.bad-ending {
+  color:red;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.good-ending {
+  color:green;
+  text-align: center;
+  text-decoration: underline;
+}
+
+body {
+  background-color: grey;
+}
+
+p {
+  text-indent: 50px;
+}
+
+#suppliesHidden {
+  display:none;
+}
+#bluecardHidden {
+  display:none;
+}
+#phoneHidden {
+  display:none;
+}
+#laptopHidden {
+  display:none;
+}

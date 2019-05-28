@@ -1,0 +1,15 @@
+I will create a site that contains a choose-your-own-adventure story. It will be not a terribly complicated one, but enough that it can engage the reader/visitor to the site.
+The layout of the site will change based on the choices made -- if the person gets a bad ending, for example, the background will change to be red, and other similar things.
+
+Steps:
+  1. Basic HTML setup - basic layout of pages.
+  2. Writing the story.
+  3. Setting up different pages for every option, and links.
+  4. Proofreading the story and making sure it makes sense.
+  5. Integrating links and colors, moving the story to HTML.
+  6. Quality assurance - manking sure it all works.
+  7. Making sure that the site works and all CSS works well.
+  8. Final presentation, allowing the class as a whole to pick the paths.
+
+I don't see any major challenges, but staying on task and getting things done in a timely manner will be the most difficult part of this.
+If I need help or input, I will ask someone that I know in the class, or email you directly.
